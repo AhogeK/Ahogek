@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact&theme=radical)
 
+![AhogeK's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AhogeK&layout=compact&theme=radical)]
+
 ![AhogeK psnprofile](https://card.psnprofiles.com/2/AhogeK.png)
