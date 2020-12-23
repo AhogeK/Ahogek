@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![AhogeK's github stats](https://github-readme-stats.vercel.app/api?username=AhogeK&show_icons=true&theme=radical)
 
-![AhogeK psnprofile](https://card.psnprofiles.com/1/AhogeK.png)
+![AhogeK psnprofile](https://card.psnprofiles.com/2/AhogeK.png)
