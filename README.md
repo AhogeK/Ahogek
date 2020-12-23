@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AhogeK)](https://github.com/anuraghazra/github-readme-stats)
+![AhogeK's github stats](https://github-readme-stats.vercel.app/api?username=AhogeK&show_icons=true&theme=radical)
 
 ![AhogeK psnprofile](https://card.psnprofiles.com/1/AhogeK.png)
