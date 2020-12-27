@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact&theme=radical)
 
-![AhogeK psnprofile](https://card.psnprofiles.com/2/AhogeK.png)
+<a href="https://psnprofiles.com/AhogeK"><img src="https://card.psnprofiles.com/2/AhogeK.png" border="0"></a>
