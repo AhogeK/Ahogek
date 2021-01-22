@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![AhogeK's github stats](https://github-readme-stats.vercel.app/api?username=AhogeK&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=AhogeK&show_icons=true&theme=radical)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhogeK&repo=mimall-web&theme=radical)](https://github.com/AhogeK/mimall-web)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhogeK&repo=mimall-web&theme=radical)](https://github.com/AhogeK/mimall-web) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact&theme=radical)
 
