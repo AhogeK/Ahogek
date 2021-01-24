@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![AhogeK's github stats](https://github-readme-stats.vercel.app/api?username=AhogeK&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=AhogeK&show_icons=true&theme=radical)
+[![AhogeK's github stats](https://github-readme-stats.vercel.app/api?username=AhogeK&show_icons=true)](https://github-readme-stats.vercel.app/api?username=AhogeK&show_icons=true&theme=radical)
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhogeK&repo=mimall-web&theme=radical)](https://github.com/AhogeK/mimall-web) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact)
 
 <a href="https://psnprofiles.com/AhogeK"><img src="https://card.psnprofiles.com/2/AhogeK.png" border="0"></a>
