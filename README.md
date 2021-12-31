@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![My PSN small Profile](https://card.psnprofiles.com/1/AhogeK.png)
 
-![My PSN Profile](https://card.psnprofiles.com/2/AhogeK.png)
+<!-- ![My PSN Profile](https://card.psnprofiles.com/2/AhogeK.png) -->
