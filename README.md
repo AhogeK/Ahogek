@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 ![My PSN small Profile](https://card.psnprofiles.com/1/AhogeK.png)
 
+My NS Code：SW-7161-1387-9324
+
 <!-- ![My PSN Profile](https://card.psnprofiles.com/2/AhogeK.png) -->
