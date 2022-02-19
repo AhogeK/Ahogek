@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![AhogeK's github stats](https://github-readme-stats.vercel.app/api?username=AhogeK&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=AhogeK&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact&theme=radical)
+[![AhogeK's github stats](https://github-readme-stats.vercel.app/api?username=AhogeK&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=AhogeK&show_icons=true&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact&theme=radical)
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhogeK&repo=mimall-web&theme=radical)](https://github.com/AhogeK/mimall-web) -->
 
@@ -23,4 +25,9 @@ Here are some ideas to get you started:
 
 My NS Code：SW-7161-1387-9324
 
+E-Mail: ahogek@gmail.com
+
+WeChat: AhogeK
+
+twitter: [@AhogeKnight](https://twitter.com/AhogeKnight)
 <!-- ![My PSN Profile](https://card.psnprofiles.com/2/AhogeK.png) -->
