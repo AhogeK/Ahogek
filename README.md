@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AhogeK&repo=mimall-web&theme=radical)](https://github.com/AhogeK/mimall-web) -->
 
-![My PSN small Profile](https://card.psnprofiles.com/1/AhogeK.png)
+<a href="https://psnprofiles.com/AhogeK"><img src="https://card.psnprofiles.com/2/AhogeK.png" border="0"></a>
 
 My NS Code：SW-7161-1387-9324
 
