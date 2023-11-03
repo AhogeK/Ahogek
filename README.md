@@ -27,7 +27,5 @@ My NS Code：SW-7161-1387-9324
 
 E-Mail: ahogek@gmail.com
 
-WeChat: AhogeK
-
 twitter: [@AhogeKnight](https://twitter.com/AhogeKnight)
 <!-- ![My PSN Profile](https://card.psnprofiles.com/2/AhogeK.png) -->
