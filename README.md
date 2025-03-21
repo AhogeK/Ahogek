@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact&theme=radical)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/AhogeK?theme=nord&font=Lobster&ext=activity&site=cn)
+
 <!-- [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AhogeK&repo=mimall-web&theme=radical)](https://github.com/AhogeK/mimall-web) -->
 
 <a href="https://psnprofiles.com/AhogeK"><img src="https://card.psnprofiles.com/2/AhogeK.png" border="0"></a>
