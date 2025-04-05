@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact&theme=radical)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AhogeK?theme=dark&font=Lobster&ext=activity&site=cn)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AhogeK?theme=dark&font=Lobster&ext=activity&site=cn)](https://leetcode.cn/u/ahogek/)
 
 <!-- [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AhogeK&repo=mimall-web&theme=radical)](https://github.com/AhogeK/mimall-web) -->
 
