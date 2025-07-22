@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ahogek github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ahogek)
+![AhogeK github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=AhogeK)
+
+![AhogeK github-trophies](https://stats.dooboo.io/api/github-trophies?login=AhogeK)
 
 ![AhogeK's github stats](https://github-readme-stats.vercel.app/api/?username=AhogeK&show_icons=true&theme=radical) 
 
