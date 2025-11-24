@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![AhogeK github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=AhogeK)
+![AhogeK github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=AhogeK)
 
-![AhogeK github-trophies](https://stats.dooboo.io/api/github-trophies?login=AhogeK) -->
+![AhogeK github-trophies](https://stats.dooboo.io/api/github-trophies?login=AhogeK)
 
-![AhogeK's github stats](https://github-readme-stats.vercel.app/api/?username=AhogeK&show_icons=true&theme=radical) 
+<!-- ![AhogeK's github stats](https://github-readme-stats.vercel.app/api/?username=AhogeK&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact&theme=radical) -->
 
 [![LeetCode Stats](https://leetcard.ahogek.com/AhogeK?theme=dark&font=Lobster&ext=activity&site=cn)](https://leetcode.cn/u/ahogek/)
 
