@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![AhogeK github-trophies](https://stats.dooboo.io/api/github-trophies?login=AhogeK)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=AhogeK&theme=dark)
+
 <!-- ![AhogeK's github stats](https://github-readme-stats.vercel.app/api/?username=AhogeK&show_icons=true&theme=radical) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact&theme=radical) -->
