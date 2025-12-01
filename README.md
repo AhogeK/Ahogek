@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ![AhogeK github-trophies](https://stats.dooboo.io/api/github-trophies?login=AhogeK)
 
-![AhogeK Tʀᴏᴘʜɪᴇs](https://github-profile-trophy.vercel.app/?username=AhogeK&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20)
+![AhogeK Tʀᴏᴘʜɪᴇs](https://github-profile-trophy.vercel.app/?username=AhogeK&no-bg=true&no-frame=false&row=1&column=9&margin-w=10&margin-h=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AhogeK&theme=dark)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AhogeK&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false)
+![](https://github-readme-activity-graph.vercel.app/graph?username=AhogeK&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=false&hide_border=false)
 
 <!-- ![AhogeK's github stats](https://github-readme-stats.vercel.app/api/?username=AhogeK&show_icons=true&theme=radical) 
 
