@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![AhogeK github-trophies](https://stats.dooboo.io/api/github-trophies?login=AhogeK)
 
-![AhogeK Tʀᴏᴘʜɪᴇs](https://github-profile-trophy.vercel.app/?username=AhogeK&no-bg=true&no-frame=false&row=1&column=9&margin-w=10&margin-h=20)
+![AhogeK Tʀᴏᴘʜɪᴇs](https://github-profile-trophy.vercel.app/?username=AhogeK&no-bg=true&no-frame=false&row=1&column=8&margin-w=10&margin-h=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AhogeK&theme=dark)
 
