@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![AhogeK github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=AhogeK)
 
-![AhogeK github-trophies](https://stats.dooboo.io/api/github-trophies?login=AhogeK)
+<!-- ![AhogeK github-trophies](https://stats.dooboo.io/api/github-trophies?login=AhogeK)
 
 <!--![AhogeK Tʀᴏᴘʜɪᴇs](https://github-profile-trophy.vercel.app/?username=AhogeK&no-bg=true&no-frame=false&row=1&column=8&margin-w=10&margin-h=20)
 
