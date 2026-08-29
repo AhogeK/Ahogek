@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![AhogeK github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=AhogeK)
+<!--![AhogeK github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=AhogeK)
 
 <!-- ![AhogeK github-trophies](https://stats.dooboo.io/api/github-trophies?login=AhogeK)
 
@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AhogeK&theme=dark) -->
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AhogeK&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=false&hide_border=false)
+<!--![](https://github-readme-activity-graph.vercel.app/graph?username=AhogeK&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=false&hide_border=false)
 
 <!-- ![AhogeK's github stats](https://github-readme-stats.vercel.app/api/?username=AhogeK&show_icons=true&theme=radical) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhogeK&layout=compact&theme=radical) -->
+![stats](https://gh-stats.com/api/AhogeK)
 
 [![LeetCode Stats](https://leetcard.ahogek.com/AhogeK?theme=dark&font=Lobster&ext=activity&site=cn)](https://leetcode.cn/u/ahogek/)
 
