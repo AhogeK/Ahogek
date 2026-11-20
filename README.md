@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 E-Mail: ahogek@gmail.com
 
-twitter: [@AhogeKnight](https://twitter.com/AhogeKnight)
+X: [@AhogeKnight](https://twitter.com/AhogeKnight)
 <!-- ![My PSN Profile](https://card.psnprofiles.com/2/AhogeK.png) -->
