@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![stats](https://gh-stats.com/api/AhogeK)
 
 [![LeetCode Stats](https://leetcard.ahogek.com/AhogeK?theme=dark&font=Lobster&ext=activity&site=cn)](https://leetcode.cn/u/ahogek/)
